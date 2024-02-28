@@ -1,4 +1,4 @@
-# C# Tutorials
+# C# Mini Project
 
 This repository contains various C# programs demonstrating different concepts and functionalities.
 
